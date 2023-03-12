@@ -1,2 +1,2 @@
-# techno-crats-ui
+# Techno-Crats-UI
 The React Native User Interface
